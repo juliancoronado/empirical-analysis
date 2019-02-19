@@ -1,8 +1,7 @@
-# project-2
-CPSC 335 Algorithms
+# Empirical Analysis
+CPSC 335 Algorithms Engineering
 
-Project 2: Empirical Analysis
-
+Project 2 
 Group members:
 
 Julian Coronado juliancoronado@csu.fullerton.edu
